@@ -1,1 +1,0 @@
-SELECT LastName, FirstName, MemberID FROM Member where Coach IS NULL;
